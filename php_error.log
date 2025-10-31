@@ -1,0 +1,260 @@
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-apps-dcf09'
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-apps-dcf09'
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Issuer dan Audience COCOK.
+[21-Oct-2025 17:32:03 Asia/Jakarta] getUserIdFromToken: Verifikasi BERHASIL. User ID: 1xJo728IOkbLohNuHdtXdJ9EZZl2
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-apps-dcf09'
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-apps-dcf09'
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Issuer dan Audience COCOK.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Verifikasi BERHASIL. User ID: 1xJo728IOkbLohNuHdtXdJ9EZZl2
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-apps-dcf09'
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-apps-dcf09'
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Issuer dan Audience COCOK.
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Verifikasi BERHASIL. User ID: 1xJo728IOkbLohNuHdtXdJ9EZZl2
+[21-Oct-2025 17:33:28 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-apps-dcf09'
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-apps-dcf09'
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Issuer dan Audience COCOK.
+[21-Oct-2025 17:33:32 Asia/Jakarta] getUserIdFromToken: Verifikasi BERHASIL. User ID: 1xJo728IOkbLohNuHdtXdJ9EZZl2
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-apps-dcf09'
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-apps-dcf09'
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Issuer dan Audience COCOK.
+[21-Oct-2025 17:35:19 Asia/Jakarta] getUserIdFromToken: Verifikasi BERHASIL. User ID: 1xJo728IOkbLohNuHdtXdJ9EZZl2
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-apps-dcf09'
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-apps-dcf09'
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Issuer dan Audience COCOK.
+[21-Oct-2025 17:40:26 Asia/Jakarta] getUserIdFromToken: Verifikasi BERHASIL. User ID: 1xJo728IOkbLohNuHdtXdJ9EZZl2
+[21-Oct-2025 20:15:32 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[21-Oct-2025 20:15:32 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[21-Oct-2025 20:15:50 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[21-Oct-2025 20:15:54 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[21-Oct-2025 20:16:00 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[22-Oct-2025 18:45:18 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[22-Oct-2025 18:45:18 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[22-Oct-2025 18:45:18 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[22-Oct-2025 18:45:18 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[22-Oct-2025 18:45:19 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Token KID: 9d2130fef02587fd88618869822734ef76a11165
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '9d2130fef02587fd88618869822734ef76a11165'.
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[22-Oct-2025 18:45:23 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[27-Oct-2025 09:43:30 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Token KID: 7ea09d057262e63e62ff73f03e04ad29d89f892a
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '7ea09d057262e63e62ff73f03e04ad29d89f892a'.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Token KID: 7ea09d057262e63e62ff73f03e04ad29d89f892a
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '7ea09d057262e63e62ff73f03e04ad29d89f892a'.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[27-Oct-2025 09:43:30 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[29-Oct-2025 13:36:34 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[29-Oct-2025 13:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[29-Oct-2025 13:59:47 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[29-Oct-2025 13:59:47 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[31-Oct-2025 13:57:33 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[31-Oct-2025 13:57:33 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[31-Oct-2025 14:05:23 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[31-Oct-2025 14:05:23 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[31-Oct-2025 14:23:05 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[31-Oct-2025 14:23:05 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[31-Oct-2025 14:27:31 Asia/Jakarta] getUserIdFromToken: Header Authorization tidak ditemukan.
+[31-Oct-2025 14:27:31 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'apsx2353_webtech_api.words' doesn't exist in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php:346
+Stack trace:
+#0 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(346): mysqli->prepare()
+#1 /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php(60): handleKamusUpdates()
+#2 {main}
+  thrown in /home/apsx2353/public_html/webtechsolution.my.id/kamuskorea/api.php on line 346
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Token KID: 7ea09d057262e63e62ff73f03e04ad29d89f892a
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '7ea09d057262e63e62ff73f03e04ad29d89f892a'.
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[31-Oct-2025 14:27:42 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Token KID: 7ea09d057262e63e62ff73f03e04ad29d89f892a
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '7ea09d057262e63e62ff73f03e04ad29d89f892a'.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Token KID: 7ea09d057262e63e62ff73f03e04ad29d89f892a
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '7ea09d057262e63e62ff73f03e04ad29d89f892a'.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[31-Oct-2025 14:27:45 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Token KID: 7ea09d057262e63e62ff73f03e04ad29d89f892a
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '7ea09d057262e63e62ff73f03e04ad29d89f892a'.
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[31-Oct-2025 14:27:52 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Mencoba mengambil Google Public Keys...
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Google Public Keys berhasil didapatkan.
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Token KID: 7ea09d057262e63e62ff73f03e04ad29d89f892a
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Public key ditemukan untuk KID '7ea09d057262e63e62ff73f03e04ad29d89f892a'.
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Leeway diatur ke 60 detik.
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Mencoba decode token...
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Token berhasil di-decode.
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Memeriksa issuer. Expected='https://securetoken.google.com/kamus-korea-apps-dcf09', Actual='https://securetoken.google.com/kamus-korea-6542e'
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Memeriksa audience. Expected='kamus-korea-apps-dcf09', Actual='kamus-korea-6542e'
+[31-Oct-2025 14:28:04 Asia/Jakarta] getUserIdFromToken: Issuer atau Audience token TIDAK COCOK.
